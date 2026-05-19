@@ -1,6 +1,6 @@
 :root {
   --text-color: #1a1c20;
-  --link-color: hsl(0, 1%, 41%);
+  --link-color: hsl(318, 80%, 41%);
   --background-color: #77afb9;
 }
 
@@ -152,6 +152,7 @@ nav .right a span {
   margin: 10px;
   border: 1.5px solid #d3d3d3;
   border-radius: 5px;
+   
 }
 
 .skills-section .cells .cell img {
@@ -162,7 +163,8 @@ nav .right a span {
 }
 
 .skills-section .cells .cell span {
-  font-size: 18px;
+  font-size: 25px;
+  font-weight: 600;
 }
 
 /* SECTION 3: Certificates */
@@ -326,7 +328,7 @@ nav .right a span {
   }
 
   .skills-section .cells .cell span {
-    font-size: 16px;
+    font-size: 25px;
   }
 
   /* SECTION 3: Certificates */
